@@ -11,6 +11,8 @@ obj/
 # Visual Studio 2019 project files
 .vs2019/
 
+.vcxproj
+.vcxproj.filters
 # Rider files
 .idea/
 
